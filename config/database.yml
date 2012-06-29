@@ -8,7 +8,8 @@ development:
   database: neal_website
   pool: 5
   timeout: 5000
-  password: cR8ecR8a
+  username:nschexni 
+  password:cR8ecR8a
   port: 5432
   host: localhost
 

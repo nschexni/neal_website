@@ -11,6 +11,7 @@ development:
   timeout: 5000 
   port: 5432
   database:
+  password: cR8ecR8a
 
 # Warning: The database defined as "test" will be erased and
 # re-generated from your development database when you run "rake".

@@ -4,9 +4,9 @@
 #   Ensure the SQLite 3 gem is defined in your Gemfile
 #   gem 'sqlite3'
 development:
-  adapter: postgresql
+  adapter: pg
   host:localhost
-  database: neal_website
+  database:neal_website
   pool: 5
   timeout: 5000
   password:cR8ecR8a
